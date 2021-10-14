@@ -1,6 +1,5 @@
 # CPC_DeepCluster
 This is the implementation of "SELF SUPERVISED REPRESENTATION LEARNING WITH DEEP CLUSTERING FOR ACOUSTIC UNIT DISCOVERY FROM RAW SPEECH" submitted to ICASSP 2022
-<<<<<<< HEAD
 
 ## setup instructions
 
@@ -61,7 +60,3 @@ python create_pseudolabels.py --input_file $Path_Containing_quantized.txt --out_
 ## Extracting features, training K Means and Language Models
 
 Extract the features for K means clustering and train K Means clustering, Language models  using the repository [here](https://github.com/bootphon/zerospeech2021_baseline)
-
-
-=======
->>>>>>> f6709e28057c8fc7c4c970f24deae6e65130264d
